@@ -1,0 +1,11 @@
+# .gitignore
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+*.swp
+
+# Ignore node_modules if using any npm packages (optional)
+node_modules/
