@@ -4,7 +4,7 @@
 Thumbs.db
 
 # Ignore IDE files
-.idea/
+../.idea/
 *.swp
 
 # Ignore node_modules if using any npm packages (optional)
