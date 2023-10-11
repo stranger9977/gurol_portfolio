@@ -1,12 +1,11 @@
 {
   "name": "gurol_portfolio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A portfolio based on an HTML5Up template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Build command executed.\""
+    "build": "echo \"No build steps required for this project.\""
   },
-  "author": "",
+  "author": "Nick Gurol",
   "license": "ISC"
 }
